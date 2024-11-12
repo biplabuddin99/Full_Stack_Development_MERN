@@ -1,0 +1,6 @@
+মডিউল ১
+javascript:
+function make
+function call
+function parameter
+function return
